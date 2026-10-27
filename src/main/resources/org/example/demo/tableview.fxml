@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="200.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/26" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.demo.tableviewController">
+   <children>
+      <TableView fx:id="creatureWindow" prefHeight="200.0" prefWidth="600.0">
+        <columns>
+          <TableColumn fx:id="idCol" prefWidth="75.0" text="id" />
+          <TableColumn fx:id="nameCol" prefWidth="75.0" text="Name" />
+            <TableColumn fx:id="founderCol" prefWidth="75.0" text="Founder" />
+            <TableColumn fx:id="dateCol" prefWidth="75.0" text="Date Found" />
+        </columns>
+      </TableView>
+   </children>
+</AnchorPane>

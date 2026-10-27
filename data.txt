@@ -1,0 +1,5 @@
+Feniksas: GOOD; ugnies ašaros, plunksnos; 1692-03-15; Albus; Dumbledore; taip;
+Drakonas: NEUTRAL; širdies styga, oda; 1543-08-22; Newt; Scamander; ne;
+Baziliskas: MALICIOUS; nuodai, iltys; 1298-11-04; Salazar; Slytherin; taip;
+Unikoras: GOOD; ragų dulkės, plaukai; 1456-06-30; Rowena; Ravenclaw; taip;
+Dementorius: MALICIOUS; nėra; 1743-12-19; Ekrizdis; Nežinoma; ne;
